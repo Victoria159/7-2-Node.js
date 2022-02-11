@@ -1,0 +1,23 @@
+{
+  "name": "7-2-node",
+  "version": "1.0.0",
+  "description": "test project for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoria159/7-2-Node.js.git"
+  },
+  "keywords": [
+    "test",
+    "7-2-nodejs"
+  ],
+  "author": "VBocharova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoria159/7-2-Node.js/issues"
+  },
+  "homepage": "https://github.com/Victoria159/7-2-Node.js#readme"
+}
