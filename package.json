@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Victoria159/7-2-Node.js/issues"
   },
-  "homepage": "https://github.com/Victoria159/7-2-Node.js#readme"
+  "homepage": "https://github.com/Victoria159/7-2-Node.js#readme",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
 }
